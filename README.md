@@ -127,7 +127,7 @@ The dataset was converted to Octave/GNU format using `libsvmread` from LIBSVM.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/fair-kernel-learning.git
+git clone https://github.com/IPL-UV/FKL.git
 cd fair-kernel-learning
 ```
 
